@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deema\\OneDrive\\Desktop\\New folder\\Anas\\Expense Track\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2592C6-48D2-4421-A754-10B83C925A6B}|Expense Track\\Expense Track.csproj|c:\\users\\deema\\onedrive\\desktop\\new folder\\anas\\expense track\\expense track\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF2592C6-48D2-4421-A754-10B83C925A6B}|Expense Track\\Expense Track.csproj|solutionrelative:expense track\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2592C6-48D2-4421-A754-10B83C925A6B}|Expense Track\\Expense Track.csproj|c:\\users\\deema\\onedrive\\desktop\\new folder\\anas\\expense track\\expense track\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF2592C6-48D2-4421-A754-10B83C925A6B}|Expense Track\\Expense Track.csproj|solutionrelative:expense track\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2592C6-48D2-4421-A754-10B83C925A6B}|Expense Track\\Expense Track.csproj|c:\\users\\deema\\onedrive\\desktop\\new folder\\anas\\expense track\\expense track\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FF2592C6-48D2-4421-A754-10B83C925A6B}|Expense Track\\Expense Track.csproj|solutionrelative:expense track\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2592C6-48D2-4421-A754-10B83C925A6B}|Expense Track\\Expense Track.csproj|c:\\users\\deema\\onedrive\\desktop\\new folder\\anas\\expense track\\expense track\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2592C6-48D2-4421-A754-10B83C925A6B}|Expense Track\\Expense Track.csproj|solutionrelative:expense track\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\deema\\OneDrive\\Desktop\\New folder\\Anas\\Expense Track\\Expense Track\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Expense Track\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\deema\\OneDrive\\Desktop\\New folder\\Anas\\Expense Track\\Expense Track\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Expense Track\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-12T15:40:56.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\deema\\OneDrive\\Desktop\\New folder\\Anas\\Expense Track\\Expense Track\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Expense Track\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\deema\\OneDrive\\Desktop\\New folder\\Anas\\Expense Track\\Expense Track\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Expense Track\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAAIIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-12-10T20:13:45.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\deema\\OneDrive\\Desktop\\New folder\\Anas\\Expense Track\\Expense Track\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "Expense Track\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "C:\\Users\\deema\\OneDrive\\Desktop\\New folder\\Anas\\Expense Track\\Expense Track\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "Expense Track\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAtwEYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-10T11:18:08.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deema\\OneDrive\\Desktop\\New folder\\Anas\\Expense Track\\Expense Track\\Program.cs",
+              "RelativeDocumentMoniker": "Expense Track\\Program.cs",
+              "ToolTip": "C:\\Users\\deema\\OneDrive\\Desktop\\New folder\\Anas\\Expense Track\\Expense Track\\Program.cs",
+              "RelativeToolTip": "Expense Track\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-10T10:51:21.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
